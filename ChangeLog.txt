@@ -1,0 +1,19 @@
+RPG
+
+1.0.0
+- Dodano Wędkowanie
+- Dodano System ekwipunku
+- Dodano System itemów
+- Dodano System postaci
+
+1.0.1
+- Patch błędu, w którym brak instrukcji użycia przedmiotu, powodował jego stratę
+- Dodano możliwość kupna przedmiotów
+
+1.0.2
+- Dodano możliwośc kupna i sprzedaży wielu przedmiotów naraz
+- Dodano komendy konsolowe
+------------------------
+Plany:
+- Pole
+- Konsola
